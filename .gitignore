@@ -1,0 +1,19 @@
+# Arduino / Embedded build files
+*.bin
+*.hex
+*.elf
+*.map
+
+# Arduino IDE temp files
+.build/
+*.tmp
+*.log
+
+# PlatformIO / VS Code
+.pio/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
