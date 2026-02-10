@@ -1,19 +1,14 @@
-# Arduino / Embedded build files
-*.bin
-*.hex
-*.elf
-*.map
+# Python
+__pycache__/
+*.pyc
 
-# Arduino IDE temp files
-.build/
-*.tmp
-*.log
-
-# PlatformIO / VS Code
-.pio/
-.vscode/
+# Runtime data
+tasks.json
 
 # OS files
 .DS_Store
 Thumbs.db
 
+# IDEs
+.vscode/
+.idea/
