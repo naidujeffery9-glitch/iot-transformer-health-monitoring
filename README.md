@@ -1,4 +1,5 @@
 # IoT Transformer Health Monitoring
+📁 Location: /todo-cli-app
 
 An IoT-based embedded system for real-time monitoring of transformer parameters such as
 temperature, load current, and voltage to prevent failures.
@@ -30,23 +31,21 @@ such as temperature and load current to detect abnormal conditions and prevent f
 
 --------------------------------------------------
 
-# CLI Todo App
+# CLI Todo App (Python)
 
-A simple command-line to-do list application built in Python.
+📁 Location: /todo-cli-app
+
+A simple command-line to-do list application built using Python.
 
 ## Features
-
 - Add new tasks
 - List all tasks with completion status
 - Mark tasks as done
 - Delete tasks
-- Tasks are saved in a JSON file (`tasks.json`) so they persist between runs
+- Tasks persist using a JSON file
 
-## How to Use
-
-1. Make sure you have Python installed
-2. Clone this repository or download the `todo.py` file
-3. Run the program:
+## How to Run
 
 ```bash
+cd todo-cli-app
 python todo.py
