@@ -1,44 +1,52 @@
-# iot-transformer-health-monitoring
+# IoT Transformer Health Monitoring
 
-An IoT-based embedded system for real-time monitoring of transformer parameters such as temperature, load current, and voltage to prevent failures
-IoT Based Transformer Health Monitoring System
+An IoT-based embedded system for real-time monitoring of transformer parameters such as
+temperature, load current, and voltage to prevent failures.
+
+## System Overview
 
 This project monitors transformer temperature and current using ESP32.
 Faults are detected using threshold logic and alerts are generated.
 
-
-
-\## System Architecture
+## System Architecture
 
 The IoT Transformer Health Monitoring system continuously monitors transformer parameters
-
 such as temperature and load current to detect abnormal conditions and prevent failures.
 
+## Key Components
 
+- ESP32 microcontroller
+- Temperature sensor
+- Current sensor
+- Alert / notification mechanism
+- Monitoring dashboard or serial output
 
-\## Key Components
+## Working Principle
 
-\- ESP32 microcontroller
+1. Sensors collect transformer temperature and current values
+2. ESP32 processes the sensor data
+3. Threshold-based logic detects fault conditions
+4. Alerts are generated when values exceed safe limits
 
-\- Temperature sensor
+--------------------------------------------------
 
-\- Current sensor
+# CLI Todo App
 
-\- Alert/notification mechanism
+A simple command-line to-do list application built in Python.
 
-\- Monitoring dashboard or serial output
+## Features
 
+- Add new tasks
+- List all tasks with completion status
+- Mark tasks as done
+- Delete tasks
+- Tasks are saved in a JSON file (`tasks.json`) so they persist between runs
 
+## How to Use
 
-\## Working Principle
+1. Make sure you have Python installed
+2. Clone this repository or download the `todo.py` file
+3. Run the program:
 
-1\. Sensors collect transformer temperature and current values
-
-2\. ESP32 processes the sensor data
-
-3\. Threshold-based logic detects fault conditions
-
-4\. Alerts are generated when values exceed safe limits
-
-
-
+```bash
+python todo.py
