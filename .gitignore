@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.pyc
@@ -12,3 +13,7 @@ Thumbs.db
 # IDEs
 .vscode/
 .idea/
+=======
+"data/" 
+"*.csv" 
+>>>>>>> timetable/main
