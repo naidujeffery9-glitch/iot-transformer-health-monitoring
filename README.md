@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IoT Transformer Health Monitoring
 📌 Project Type: IoT + Embedded Systems + Python
 
@@ -50,7 +49,7 @@ A simple command-line to-do list application built using Python.
 ```bash
 cd todo-cli-app
 python todo.py
-=======
+
 # 📚 Smart Timetable App
 
 A simple yet powerful timetable application that helps you plan your study schedule for exams.
